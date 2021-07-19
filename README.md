@@ -1,4 +1,4 @@
 # Pynet
 Test Pynet Repository
 
-Some additional information on this repository.
+Some additional information on this solid repository.
